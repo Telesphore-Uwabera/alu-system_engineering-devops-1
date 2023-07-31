@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#confignginx
+#config nginx
 sudo apt remove --purge nginx nginx-full nginx-common -y
 sudo apt update
 sudo apt install nginx -y
