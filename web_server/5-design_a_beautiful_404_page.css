@@ -20,7 +20,7 @@ body {
 	margin: 0;
 	font-weight: 900;
 	letter-spacing: 20px;
-	background: url(panda.jpg) center no-repeat;
+	background: url('https://i.pinimg.com/originals/09/a9/e8/09a9e8cbe4d5048e43ff386a698178a5.jpg') center no-repeat;
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
 }
